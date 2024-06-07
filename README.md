@@ -1,4 +1,4 @@
-# Furniture
+# FurniSphere
 
 This project aims to provide a fully functional and visually appealing website for a furniture store. It includes various sections such as a home page, product listings, product details,and contact information.
 
